@@ -1,0 +1,125 @@
+body,html{
+    height: 100%;
+    width: 100%;
+}
+.text{
+    text-align: center;
+}
+
+.img img{
+    height: 400px;
+    width: 400px;
+}
+.marg{
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+.heading {
+     color: black;
+     line-height:1px ;
+     
+}
+.title{
+    color:black;
+    line-height: 15px;
+    
+}
+.img_3 img{
+    height: 400px;
+    width: 520px;
+}
+.img_4 img{
+    height: 500px;
+    width:500px;
+}
+.font h4{
+    font-size: 20px;
+    text-align: center;
+}
+.grey_section{
+    background-color: rgb(210, 224, 240);
+}
+
+.float_left{
+    float:left;
+    
+}
+
+.feature-item{
+    padding: 10px;
+    position: relative;
+}
+.feature-text h4:hover, .card-body:hover {
+    color: white;
+    background-color: rgb(228, 57, 57);
+
+  }
+  .feature-item:hover{
+    height: 200px;
+    width:200pxpx;
+  }
+
+.card{
+    width: 50%;
+    height: auto;
+    
+}
+.card-sec{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 28px;
+}
+.marg_1{
+    margin-bottom: 30px;
+}
+.img_5 img{
+    height: auto;
+    width: 20px;
+}
+.border_solid{
+    margin-top: 5px;
+    border-style: solid;
+    
+
+}
+.feature-text h4{
+    padding-right: 30px;
+}
+.card-section{
+    padding: 1rem 4rem 1rem 4rem;
+}
+.arrow{
+    text-align: right;
+    
+    position: absolute;
+    right: 0%;
+    bottom: -5%;
+}
+.arrow i{
+    color:orange;
+}
+.widget-title{
+    color: red;
+}
+.img_6 img{
+    height: auto;
+    width: 250px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.footer_margin{
+    margin-left: 28px;
+}
+button{
+    
+        background-color: pink; /* Green */
+        border: double;
+        color: blue;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      
+}
